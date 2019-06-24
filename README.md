@@ -17,3 +17,14 @@
 # systemctl enable sssd.service
 
 # reboot
+
+# LiveBOOTP
+
+The LiveBOOTP project is a solution in two parts:
+* The BOOTP registry
+* Targets images
+
+## Table of Contents
+
+* [Target image creation](#target-image-creation)
+
